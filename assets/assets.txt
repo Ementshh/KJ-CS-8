@@ -1,0 +1,12 @@
+Danmaku/Shot_01.png
+Danmaku/Shot_02.png
+amulet_reimu.png
+bullets_large.png
+bullets_small.png
+cirno.png
+fairy.png
+items.png
+items_notification.png
+libgdx.png
+player.png
+rumia.png
